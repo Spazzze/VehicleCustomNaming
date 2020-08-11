@@ -1,0 +1,17 @@
+﻿UI/VehicleCustomNaming/Strings/StaticStrings@VehicleCustomName_Title:
+Изменить имя
+
+UI/VehicleCustomNaming/Strings/StaticStrings@VehicleCustomName_OnlyOwnerCanSet:
+Изменить имя может только владелец.
+
+UI/VehicleCustomNaming/Strings/StaticStrings@VehicleCustomName_CurrentName:
+Текущее имя (видно только для Вас)
+
+UI/VehicleCustomNaming/Strings/StaticStrings@VehicleCustomName_SetName:
+Введите имя
+
+UI/VehicleCustomNaming/Strings/StaticStrings@VehicleCustomName_ButtonSet:
+Изменить
+
+UI/VehicleCustomNaming/Strings/StaticStrings@VehicleCustomName_ButtonRemoveName:
+Удалить имя
